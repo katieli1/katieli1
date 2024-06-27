@@ -19,7 +19,7 @@ I’m an incoming junior at Brown University studying computer science and philo
 
 ### Internship Experience :computer:
 
-🖥️ **Microsoft** — I’m currently a PM intern in the Azure for Operators division. I work on Azure Programmable Connectivity, a service that abstracts away the complexity of network APIs behind a unified, easy-to-use interface. 
+🖥️ **Microsoft** — I’m currently a TPM intern in the Azure for Operators division. I work on Azure Programmable Connectivity, a service that abstracts away the complexity of network APIs behind a unified, easy-to-use interface. 
 
 :earth_africa: **NASA** — Previously, I was a SWE intern at NASA GSFC, where I developed a REST API that gave scientists easy access to an earth systems model running in AWS. 
 
