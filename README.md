@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m an incoming junior at Brown University studying computer science and philosophy. My interests include operating systems, distributed systems, networks, web development, and technology journalism/policy.
+I’m an incoming junior at Brown University studying computer science and philosophy. My interests include distributed systems, operating systems, networks, web development, and technology journalism/policy.
 
 ### Internship Experience :computer:
 
-🖥️ **Microsoft** — I’m currently a PM intern in the Azure for Operators division. I work on Azure Programmable Connectivity, a service that abstracts away the complexity of network APIs behind a convenient interface. 
+🖥️ **Microsoft** — I’m currently a PM intern in the Azure for Operators division. I work on Azure Programmable Connectivity, a service that abstracts away the complexity of network APIs behind a unified, easy-to-use interface. 
 
 :earth_africa: **NASA** — Previously, I was a SWE intern at NASA GSFC, where I developed a REST API that gave scientists easy access to an earth systems model running in AWS. 
 
@@ -31,4 +31,4 @@ Also at Brown, I’ve worked as a teaching assistant for two of my favorite cour
 
 ### Writing 📝
 
-I'm a freelance writer and current contributer to The Brown Daily Herald, Brown University’s independent student newspaper. Some favorite articles I’ve written include a [BDH article](https://www.browndailyherald.com/article/2023/04/u-fli-students-discuss-challenges-financial-obstructions-to-studying-abroad) on Brown’s lack of financial aid to low-income students studying abroad and a [Business Insider feature](https://www.businessinsider.com/art-historians-experts-artists-think-nfts-2021-4) on what art historians think of NFTs.
+I'm a freelance writer and current contributer to The Brown Daily Herald, Brown’s independent student newspaper. Some favorite articles I’ve written include a [BDH article](https://www.browndailyherald.com/article/2023/04/u-fli-students-discuss-challenges-financial-obstructions-to-studying-abroad) on Brown’s lack of financial aid to low-income students studying abroad and a [Business Insider feature](https://www.businessinsider.com/art-historians-experts-artists-think-nfts-2021-4) on what art historians think of NFTs.
