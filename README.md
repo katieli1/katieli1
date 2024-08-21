@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m an incoming junior at Brown University studying computer science and philosophy. My interests include distributed systems, operating systems, networks, web development, and technology journalism/policy.
+I’m a junior at Brown University studying computer science and philosophy. My interests include distributed systems, operating systems, networks, full-stack web development, and technology journalism/policy.
 
 ### Internship Experience :computer:
 
-🖥️ **Microsoft** — I’m currently a TPM intern in the Azure for Operators division. I work on Azure Programmable Connectivity, a service that abstracts away the complexity of network APIs behind a unified, easy-to-use interface. 
+🖥️ **Microsoft** — This past summer, I was a TPM intern in the Azure for Operators division. I worked on Azure Programmable Connectivity, a service that abstracts away the complexity of network APIs behind a unified, easy-to-use interface. 
 
 :earth_africa: **NASA** — Previously, I was a SWE intern at NASA GSFC, where I developed a REST API that gave scientists easy access to an earth systems model running in AWS. 
 
