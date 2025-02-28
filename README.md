@@ -27,7 +27,7 @@ I’m a junior at Brown University studying computer science and philosophy. My 
 
 At Brown, I’m an undergraduate researcher in the [ETOS group](https://etos.cs.brown.edu/index.html). I contribute to soft memory, a software-level abstraction on top of primary storage that makes memory revocable from lower-priority processes when a machine faces memory pressure. This memory is then reallocated to latency-critical processes, which prevents crashes and—by extension—reduces memory underutilization in data centers. 
 
-Also at Brown, I’ve worked as a teaching assistant for two of my favorite courses, Data Structures & Algorithms (spring 2024) and Intro to Object-Oriented Programming (fall 2023, 2024). 
+Also at Brown, I’ve worked as a teaching assistant for two of my favorite courses, Data Structures & Algorithms (spring 2024, spring 2025) and Intro to Object-Oriented Programming (fall 2023, fall 2024). 
 
 ### Writing 📝
 
