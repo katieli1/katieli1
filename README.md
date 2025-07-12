@@ -20,10 +20,13 @@ I’m a junior at Brown University studying computer science and philosophy. My 
 ### Internship Experience :computer:
 
 🖥️ **Microsoft** 
+
 Summer 2025 — SWE intern for [Microsoft Discovery](https://azure.microsoft.com/en-us/blog/transforming-rd-with-agentic-ai-introducing-microsoft-discovery/)
+
 Summer 2024 — TPM intern for Azure for Operators
 
 :earth_africa: **NASA** 
+
 Summer 2023 — SWE intern at NASA GSFC
 
 ### Research and Teaching 📚
