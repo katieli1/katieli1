@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a junior at Brown University studying computer science and philosophy. My interests include distributed systems, operating systems, networks, full-stack web development, and technology journalism/policy.
+I’m an incoming senior at Brown University studying computer science and philosophy. My interests include operating systems, distributed systems, full-stack web development, and tech ethics. 
 
 ### Internship Experience :computer:
 
@@ -25,6 +25,6 @@ I’m a junior at Brown University studying computer science and philosophy. My 
 
 ### Research and Teaching 📚
 
-At Brown, I’m an undergraduate researcher in the [ETOS group](https://etos.cs.brown.edu/index.html). I contribute to soft memory, a software-level abstraction on top of primary storage that makes memory revocable from lower-priority processes when a machine faces memory pressure. This memory is then reallocated to latency-critical processes, which prevents crashes and—by extension—reduces memory underutilization in data centers. 
+At Brown, I’m an undergraduate researcher in the [ETOS group](https://etos.cs.brown.edu/index.html). I contribute to soft memory, a software-level abstraction on top of primary storage that makes memory revocable from lower-priority processes when a machine faces memory pressure. This memory is then reallocated to latency-critical processes, which prevents crashes and reduces memory underutilization in data centers. 
 
-Also at Brown, I’ve been a teaching assistant for two of my favorite courses, Data Structures & Algorithms (spring 2024, spring 2025) and Intro to Object-Oriented Programming (fall 2023, fall 2024, fall 2025). 
+Also at Brown, I’ve been a teaching assistant for two of my favorite courses, Data Structures & Algorithms (spring 2024, head TA in spring 2025) and Intro to Object-Oriented Programming (fall 2023, fall 2024, fall 2025). 
