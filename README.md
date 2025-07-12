@@ -19,16 +19,15 @@ I’m a junior at Brown University studying computer science and philosophy. My 
 
 ### Internship Experience :computer:
 
-🖥️ **Microsoft** — This past summer, I was a TPM intern in the Azure for Operators division. I worked on Azure Programmable Connectivity, a service that abstracts away the complexity of network APIs behind a unified, easy-to-use interface. 
+🖥️ **Microsoft** 
+Summer 2025 — SWE intern for [Microsoft Discovery](https://azure.microsoft.com/en-us/blog/transforming-rd-with-agentic-ai-introducing-microsoft-discovery/)
+Summer 2024 — TPM intern for Azure for Operators
 
-:earth_africa: **NASA** — Previously, I was a SWE intern at NASA GSFC, where I developed a REST API that gave scientists easy access to an earth systems model running in AWS. 
+:earth_africa: **NASA** 
+Summer 2023 — SWE intern at NASA GSFC
 
 ### Research and Teaching 📚
 
 At Brown, I’m an undergraduate researcher in the [ETOS group](https://etos.cs.brown.edu/index.html). I contribute to soft memory, a software-level abstraction on top of primary storage that makes memory revocable from lower-priority processes when a machine faces memory pressure. This memory is then reallocated to latency-critical processes, which prevents crashes and—by extension—reduces memory underutilization in data centers. 
 
-Also at Brown, I’ve worked as a teaching assistant for two of my favorite courses, Data Structures & Algorithms (spring 2024, spring 2025) and Intro to Object-Oriented Programming (fall 2023, fall 2024). 
-
-### Writing 📝
-
-I'm a freelance writer and current contributer to The Brown Daily Herald, Brown’s independent student newspaper. Some favorite articles I’ve written include a [BDH article](https://www.browndailyherald.com/article/2023/04/u-fli-students-discuss-challenges-financial-obstructions-to-studying-abroad) on Brown’s lack of financial aid to low-income students studying abroad and a [Business Insider feature](https://www.businessinsider.com/art-historians-experts-artists-think-nfts-2021-4) on what art historians think of NFTs.
+Also at Brown, I’ve been a teaching assistant for two of my favorite courses, Data Structures & Algorithms (spring 2024, spring 2025) and Intro to Object-Oriented Programming (fall 2023, fall 2024, fall 2025). 
